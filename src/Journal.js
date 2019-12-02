@@ -30,7 +30,7 @@ const Journal = (props) => {
                     <tr>
                         <th>Date</th>
                         <th>Log</th>
-                        <th>Sentiment</th>
+                        <th>Sentiment Polarity</th>
                     </tr>
                 </thead>
                 <tbody>
